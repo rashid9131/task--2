@@ -1,5 +1,4 @@
-.sch{
-   
-    flex-flow: column;
-    
+div p{
+    font-size: small;
+    color: blueviolet;
 }
